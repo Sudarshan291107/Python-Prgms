@@ -1,0 +1,16 @@
+cricketers=["Sachin","Dhoni","Virat","David","Sehwag","Stark"]
+print(cricketers)
+print(cricketers[0])
+print(cricketers[1])
+print(cricketers[2])
+print(cricketers[-1])
+print(cricketers[-2])
+print(cricketers[-3])
+print(cricketers[0:])
+print(cricketers[1:])
+print(cricketers[2:])
+print(cricketers[1:4])
+print(cricketers[:])
+cricketers1=["Sachin","Dhoni","Virat","David","Sehwag","Stark"]
+cricketers1[2]="Rohit"
+print(cricketers1)
